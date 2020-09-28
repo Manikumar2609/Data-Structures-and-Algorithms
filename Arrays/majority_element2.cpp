@@ -56,7 +56,7 @@ int findMajorityElement(int arr[], int n)
          count--;
     }
   }
-/*
+
   //step 2 - check if this candidate is a majority element
   if(count == 0)
     return 0;
@@ -64,8 +64,8 @@ int findMajorityElement(int arr[], int n)
   {
      if(candidate == arr[i])
       count++;
-  } */
-  return candidate;
+  }
+  return (count > (n/2))? candidate : NULL;
 }
 int main()
 {
