@@ -4,14 +4,13 @@
 
 **These implementations for learning purpose. The solution would be provided in C/C++ Programming Language.**
 
-You are welcomed to contribute in this repository. For contributions in the repository, Do read Contribution Guidelines.
+I am planning to cover all those topics which i include below and You are welcomed to contribute in this repository.
 
 ## Table of Contents
 
 * List of Data Structures and Algorithms
-
-
-
+* What you can learn from this repository
+* Important links
 
 ## List of Data Structures and Algorithms
 
@@ -51,3 +50,11 @@ The goal for the repository can be summarised as follows:-
 * Learn to Review Other's Code.
 * Learn How to Contribute in Open Source.
 
+## Important Links
+
+* [Projects](https://github.com/Manikumar2609/Projects/tree/master/Cpp_Projects)
+* [E-Books to learning programming](https://github.com/Manikumar2609/E-Books)
+* [Practising C Language](https://github.com/Manikumar2609/Practising-C-Language)
+* [Cpp_Programming_Solutions](https://github.com/Manikumar2609/CPP_Primer_Plus_Solutions)
+
+* 
