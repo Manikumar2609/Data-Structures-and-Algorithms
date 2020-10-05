@@ -8,7 +8,7 @@ I am planning to cover all those topics which i include below and You are welcom
 
 ## Table of Contents
 
-* List of Data Structures and Algorithms
+* [List of Data Structures and Algorithms](https://github.com/Manikumar2609/Data-Structures-and-Algorithms)
 * What you can learn from this repository
 * Important links
 
