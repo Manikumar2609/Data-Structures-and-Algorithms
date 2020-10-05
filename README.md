@@ -16,7 +16,8 @@ I am planning to cover all those topics which i include below and You are welcom
 
 * Basics
 * Data Structures
-  * Array/Vector
+  * [Arrays](https://github.com/Manikumar2609/Data-Structures-and-Algorithms/tree/master/Arrays)
+  * Vector(Dynamic Array)
   * String
   * Matrix
   * Stack, Queue and Priority Queue
@@ -56,5 +57,3 @@ The goal for the repository can be summarised as follows:-
 * [E-Books to learning programming](https://github.com/Manikumar2609/E-Books)
 * [Practising C Language](https://github.com/Manikumar2609/Practising-C-Language)
 * [Cpp_Programming_Solutions](https://github.com/Manikumar2609/CPP_Primer_Plus_Solutions)
-
-* 
