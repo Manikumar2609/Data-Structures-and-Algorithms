@@ -8,6 +8,8 @@ You are welcomed to contribute in this repository. For contributions in the repo
 
 ## Table of Contents
 
+* List of Data Structures and Algorithms
+
 
 
 
@@ -36,3 +38,16 @@ You are welcomed to contribute in this repository. For contributions in the repo
   * Backtracking
   * Greedy Approach
   * Advanced Algorithm Techniques
+  
+  ## What you learn from this repository
+
+The goal for the repository can be summarised as follows:-
+
+* Learn Data Structures and Algorithms.
+* Learn How to Use Git.
+* Learn How to Write Clean Code.
+* Learn How to Solve Problems with Multiple Approaches.
+* Learn to Understand Other's Code.
+* Learn to Review Other's Code.
+* Learn How to Contribute in Open Source.
+
