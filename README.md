@@ -4,7 +4,7 @@
 
 **These implementations for learning purpose. The solution would be provided in C/C++ Programming Language.**
 
-I am planning to cover all those topics which i include below and You are welcomed to contribute in this repository.
+I am planning to cover all those topics which i include below, You may find more than one implementation for the same objective but using a different algorithm strategies and optimizations. You are welcomed to contribute in this repository.
 
 ## Table of Contents
 
